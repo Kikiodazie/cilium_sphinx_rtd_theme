@@ -115,7 +115,7 @@ setup(
     zip_safe=False,
     packages=['sphinx_rtd_theme'],
     package_data={'sphinx_rtd_theme': [
-        'icons/*.svg'
+        'icons/slack-inline.svg'
         'theme.conf',
         '*.html',
         'static/css/*.css',
